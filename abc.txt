@@ -36,3 +36,18 @@ git push
 
 git pull
 git checkout "branch-name"
+
+
+git pull      github -> local      pull = fetch + merge
+git fetch     github -> local
+
+
+git merge     one branch merge to another
+
+
+
+
+
+
+
+
