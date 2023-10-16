@@ -1,5 +1,5 @@
 This is our first project for github
-
+Trial
 we create new file and tryed init
 
 git init
@@ -10,7 +10,6 @@ git config --global user.email "usermail"
 
 git config --global user.name 
 git config --global user.email 
-
 
 git clone "project-url"
 
@@ -30,7 +29,6 @@ git commit -m "your message"
 git push origin master
 git push --set-upstream origin master
 git push 
-
 
 git pull
 git checkout "branch-name"
