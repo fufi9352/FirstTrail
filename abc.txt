@@ -1,3 +1,24 @@
 This is our first project for github
 
 we create new file and tryed init
+
+git init
+
+git config --global user.name "username"
+git config --global user.email "usermail"
+
+
+git config --global user.name 
+git config --global user.email 
+
+git remote add origin "url"
+git remote -v
+
+git status
+
+git add .
+git add -A
+git add filename
+
+git commit
+git commit -m "your message"
