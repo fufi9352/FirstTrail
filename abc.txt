@@ -1,5 +1,6 @@
 This is our first project for github
-Trial
+Trial this line is added by other user
+
 we create new file and tryed init
 
 git init
