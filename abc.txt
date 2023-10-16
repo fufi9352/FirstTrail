@@ -22,3 +22,10 @@ git add filename
 
 git commit
 git commit -m "your message"
+
+
+git push origin master
+git push --set-upstream origin master
+git push 
+
+
