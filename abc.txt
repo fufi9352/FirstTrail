@@ -11,6 +11,9 @@ git config --global user.email "usermail"
 git config --global user.name 
 git config --global user.email 
 
+
+git clone "project-url"
+
 git remote add origin "url"
 git remote -v
 
