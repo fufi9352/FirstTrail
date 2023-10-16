@@ -1,0 +1,3 @@
+This is our first project for github
+
+we create new file and tryed init
